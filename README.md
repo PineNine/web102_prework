@@ -24,9 +24,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/AouZgbC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Imgur](https://imgur.com/a/AouZgbC)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ShareX  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
